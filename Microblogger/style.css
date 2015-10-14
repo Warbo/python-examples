@@ -1,0 +1,28 @@
+body	{
+	background-color:#000000;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 10px dotted #CC3300;
+	font-family: sans-serif;
+	padding: 45px;
+	line-height: 1.6em;
+	}
+
+h1, h2	{
+	color: #FFFFFF;
+	text-decoration: underline;
+	line-height: 1.8em;
+	}
+
+p	{
+	color: #FFFFFF;
+	font-size: 90%;
+	border-color: #FF3300;
+	border-width: 3px;
+	border-style: solid;
+	background-color: #990000;
+	padding: 20px;
+	}
+
+div	{text-align: center;
+	}
